@@ -1,0 +1,5 @@
+#
+#
+#
+def isOk():
+    return True

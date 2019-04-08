@@ -1,0 +1,5 @@
+
+#!/bin/bash
+
+stringZ=abcABC123ABCabc
+echo `expr "$stringZ" : 'abc[A-Z]*.2'`
