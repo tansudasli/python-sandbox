@@ -1,4 +1,4 @@
-t, b#
+#
 #
 # open(path)
 
