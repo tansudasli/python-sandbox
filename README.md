@@ -1,5 +1,5 @@
-# python-and-bashshell-sandbox
-Python and some bash-shell sandbox
+# python-sandbox
+Python sandbox
 
 # run python from bash-shell
  `echo ls -l | bash`
