@@ -2,6 +2,7 @@
 Python sandbox
 
 # run python from bash-shell
+
  `echo ls -l | bash`
 
  `echo "Hello Holly." | python3 -c "import sys; [print(line) for line in sys.stdin]"`
