@@ -9,7 +9,15 @@ Python sandbox
 
  `echo 3.30 | python3 -c "print('my grade is {}'.format(input()))"`
 
-# Some Notes
+## Some Notes
 
-* ()
-* [, , ,] 
+* ()                Tuple 
+* [ , , ,]          ArrayList
+  * in
+  * [indexbased]
+* { :, :, :, }      Map
+  * in
+  * get
+  * [valueBased]
+  * items
+  * values, keys

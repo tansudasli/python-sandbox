@@ -1,5 +1,0 @@
-#
-#
-#
-def isOk():
-    return True
