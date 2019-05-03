@@ -17,4 +17,4 @@ with open('/etc/hosts') as hostFile:
     for line in hostFile:
         print(line.rsplit())
 
-# mode: +, t (text), b (binary)     
+# mode: +, t (text), b (binary)

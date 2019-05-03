@@ -2,6 +2,7 @@
 
 input = int(input())
 
+
 def isOdd(number):
     """determine is number odd or even.  """
 
@@ -10,4 +11,6 @@ def isOdd(number):
     else:
         return True
 
-print(isOdd(input))
+
+if __name__ == '__main__':
+    print(isOdd(input))

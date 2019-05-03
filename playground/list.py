@@ -1,53 +1,61 @@
 
-animaList = ['bear', 'cat', 'tiger', 'donkey']
+animalList = ['bear', 'cat', 'tiger', 'donkey']
 
-# print(animaList[0])
+print(animalList[0])
 
-# dynamic. no seperate for array or arraylist
-animaList.extend(['duck'])
-animaList = animaList + ['mammut', 'cow']
-#animaList.append
 
-print('animals {}'.format(animaList))
-print('-' * 30)
+# dynamic. no separate for array or arraylist
+animalList.extend(['duck'])
+animalList = animalList + ['mammut', 'cow']
 
-animaList.insert(2, 'duck')
+# animalList.append
+
+
+print('animals {}'.format(animalList))
+
+animalList.insert(2, 'duck')
 
 # no toString method.
-print(animaList)
+print(animalList)
+
+print(30 * "-")
 
 # operator overloading
-print('fist two of animals {}'.format(animaList[0:2]))
-print('last two of animals {}'.format(animaList[-2:]))
+print('fist two of animals {}'.format(animalList[0:2]))
+print('last two of animals {}'.format(animalList[-2:]))
+
 
 def find(animal):
     try:
-        return animaList.index(animal)
-    except:
+        return animalList.index(animal)
+    except IndexError:
         return -1
-    
+
+
 print('duck index {}'.format(find('duck')))
 
 print('-' * 30)
+
 counter = 0
-for item in animaList:
+for animal in animalList:
     counter = counter + 1
-    print(str(counter) + '/' + str(len(animaList)) + ': ' + item.upper())
+    print(str(counter) + '/' + str(len(animalList)) + ': ' + animal.upper())
+
 print('-' * 30)
 
-animaList.sort()
-print('sorted animals {}'.format(animaList))
+animalList.sort()
+print('sorted animals {}'.format(animalList))
 
 # some samples of
 # range(2, 4)
-# range(1, 10, 2)  
+# range(1, 10, 2)
 for item in range(3):
-    print(animaList[item])
+    print(animalList[item])
 
 # normally we should write additional steps in java
 print('-' * 30)
-for item in range(0, len(animaList), 2):
-    print(animaList[item])    
+for item in range(0, len(animalList), 2):
+    print(animalList[item])
 
 
-   
+

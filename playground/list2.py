@@ -11,7 +11,8 @@ for i in range(x+1):
             if ((i+j+k) != n):
                 ar.append([i, j, k])
 
-print(ar)    
+print(ar)
+print(ar.__len__())
 
 # sample input
 # 2
