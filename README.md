@@ -1,7 +1,15 @@
 # python-sandbox
 Python sandbox
 
-# run python from bash-shell
+# How To Start
+...
+
+1. core/ : usage of data structures in python3
+2. core/data : all about data manuplations w/ pandas 
+   - [x] on local
+   - [x] on Dataproc GCP
+
+#### run python from bash-shell
 
  `echo ls -l | bash`
 
@@ -9,7 +17,7 @@ Python sandbox
 
  `echo 3.30 | python3 -c "print('my grade is {}'.format(input()))"`
 
-## Some Notes
+#### Some Notes
 
 * ()                Tuple 
 * [ , , ,]          ArrayList
