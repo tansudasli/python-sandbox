@@ -8,7 +8,7 @@ Python sandbox for core python capabilities, pandas, numpy for statistical staff
 2. core/data : all about data manipulation w/ **pandas** 
    - [x] on local
    - [x] on Dataproc GCP
-3. core/statistics : about statistical ops. w/ **numpy**
+3. core/statistics : about statistical ops. w/ **numpy** and **scipy**
 
 #### run python from bash-shell
 
