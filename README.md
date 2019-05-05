@@ -1,5 +1,5 @@
 # python-sandbox
-Python sandbox
+Python sandbox for core python capabilities, pandas, numpy for statistical staffs...
 
 # How To Start
 ...
