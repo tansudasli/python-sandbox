@@ -1,0 +1,6 @@
+,id,name,theAge,number
+0,0,ali,36,100
+1,1,veli,36,200
+2,2,deli,46,10
+3,3,zeli,46,20
+4,4,elli,30,80
