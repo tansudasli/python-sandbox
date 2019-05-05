@@ -5,9 +5,10 @@ Python sandbox for core python capabilities, pandas, numpy for statistical staff
 ...
 
 1. core/ : usage of data structures in python3
-2. core/data : all about data manuplations w/ pandas 
+2. core/data : all about data manipulation w/ **pandas** 
    - [x] on local
    - [x] on Dataproc GCP
+3. core/statistics : about statistical ops. w/ **numpy**
 
 #### run python from bash-shell
 
