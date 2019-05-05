@@ -21,12 +21,13 @@ Python sandbox for core python capabilities, pandas, numpy for statistical staff
 #### Some Notes
 
 * ()                Tuple 
-* [ , , ,]          ArrayList
+* [ , , ,]          List
   * in
   * [indexbased]
-* { :, :, :, }      Map
+* { :, :, :, }      Dictionary
   * in
   * get
   * [valueBased]
   * items
   * values, keys
+* { , , , }         Set
