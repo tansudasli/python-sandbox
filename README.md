@@ -4,7 +4,7 @@ Python sandbox for core python capabilities, pandas, numpy for statistical staff
 # How To Start
 ...
 
-1. / : usage of data structures in python3
+1. core : python3 core data structures
 2. data : all about data manipulation w/ **pandas** 
    - [x] on local
    - [x] on Dataproc GCP
