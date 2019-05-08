@@ -5,6 +5,8 @@ Python sandbox w/ core capabilities
 * BeautifulSoup4
 * ml models
    * linear regression
+   * natural language processing
+   
 
 # How To Start
 ...
