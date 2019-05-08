@@ -9,7 +9,8 @@ Python sandbox for core python capabilities, pandas, numpy for statistical staff
    - [x] on local
    - [x] on Dataproc GCP
 3. statistics : about statistical ops. w/ **numpy**, **scipy**, **matplotlib**
-4. code-review : about some code reviews while hiring data scientists 
+4. ml : machine learning models uch as linear regression
+5. code-review : about code reviews while hiring data scientists' codes 
 
 #### run python from bash-shell
 
