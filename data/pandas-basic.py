@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("../../datasets/ml-100k/u.data")
+df = pd.read_csv("../datasets/ml-100k/u.data")
 
 df[1:3]
 
