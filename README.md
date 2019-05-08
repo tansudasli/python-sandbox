@@ -1,5 +1,10 @@
 # python-sandbox
-Python sandbox for core python capabilities, pandas, numpy for statistical staffs...
+Python sandbox w/ core capabilities 
+* pandas, numpy, scipy, 
+* matplotlib, 
+* BeautifulSoup4
+* ml models
+   * linear regression
 
 # How To Start
 ...
@@ -9,7 +14,8 @@ Python sandbox for core python capabilities, pandas, numpy for statistical staff
    - [x] on local
    - [x] on Dataproc GCP
 3. statistics : about statistical ops. w/ **numpy**, **scipy**, **matplotlib**
-4. ml : machine learning models uch as linear regression
+4. ml : machine learning models such as linear regression
+5. scrapping : about html html parsers
 5. code-review : about code reviews while hiring data scientists' codes 
 
 #### run python from bash-shell
