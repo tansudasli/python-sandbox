@@ -6,7 +6,8 @@ Python sandbox w/ core capabilities
 * ml models
    * linear regression w/ scifi
    * natural language processing w/ nlptk
-   * sentiment analysis w/ scikit-learn
+   * n-gram analysis w/ nlptk
+   * sentiment analysis w/ nlptk and scikit-learn
    
 
 # How To Start
