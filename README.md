@@ -4,8 +4,9 @@ Python sandbox w/ core capabilities
 * matplotlib, 
 * BeautifulSoup4
 * ml models
-   * linear regression
-   * natural language processing
+   * linear regression w/ scifi
+   * natural language processing w/ nlptk
+   * sentiment analysis w/ scikit-learn
    
 
 # How To Start
