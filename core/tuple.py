@@ -29,4 +29,11 @@ print(type(animalTuple))
 
 print(30 * "-")
 
+#%%
+# another way to create a tupple ! instead of ()
+isItTuple = "ali", "veli", 31
+isItTuple
 
+#%%
+student_tuple = ("ali", "veli", [10, 20, 30])
+student_tuple[2][1]
