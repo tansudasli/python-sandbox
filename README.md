@@ -32,7 +32,7 @@ Python sandbox w/ core capabilities
 
 #### Some Notes
 
-* ()                Tuple 
+* (,)  or , ,       Tuple (_commas what define a tuple_)
 * [ , , ,]          List
   * in
   * [indexbased]
