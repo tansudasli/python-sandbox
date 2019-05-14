@@ -17,10 +17,11 @@ Python sandbox w/ core capabilities
 2. data : all about data manipulation w/ **pandas** 
    - [x] on local
    - [x] on Dataproc GCP
-3. statistics : about statistical ops. w/ **numpy**, **scipy**, **matplotlib**
+3. statistics : about statistical ops. w/ **numpy**, **scipy**, 
+4. visualization : graphs w/ **matplotlib**, **seaborn**
 4. ml : machine learning models such as linear regression
-5. scrapping : about html html parsers
-6. code-review : about code reviews while hiring data scientists' codes 
+5. scrapping : about html parsers
+6. code-review : about code interviews while hiring data scientists
 
 #### run python from bash-shell
 
