@@ -1,5 +1,6 @@
 # python-sandbox
 Python sandbox w/ core capabilities 
+
 * pandas, numpy, scipy, 
 * matplotlib, 
 * BeautifulSoup4
@@ -9,6 +10,7 @@ Python sandbox w/ core capabilities
    * n-gram analysis w/ nlptk
    * sentiment analysis w/ nlptk and scikit-learn
    
+python notes for [data structures](https://github.com/tansudasli/python-sandbox/wiki/Python-Data-Structures)
 
 # How To Start
 ...
@@ -31,16 +33,4 @@ Python sandbox w/ core capabilities
 
  `echo 3.30 | python3 -c "print('my grade is {}'.format(input()))"`
 
-#### Some Notes
-
-* (,)  or , ,       Tuple (_commas what define a tuple_)
-* [ , , ,]          List
-  * in
-  * [indexbased]
-* { :, :, :, }      Dictionary
-  * in
-  * get
-  * [valueBased]
-  * items
-  * values, keys
-* { , , , }         Set
+ 
