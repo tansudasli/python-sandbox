@@ -21,7 +21,7 @@ python notes for [data structures](https://github.com/tansudasli/python-sandbox/
    - [x] on Dataproc GCP
 3. statistics : about statistical ops. w/ **numpy**, **scipy**, 
 4. visualization : graphs w/ **matplotlib**, **seaborn**
-4. ml : machine learning models such as linear regression
+4. ml : machine learning models such as linear regression, nlp etc..
 5. scrapping : about html parsers
 6. code-review : about code interviews while hiring data scientists
 
