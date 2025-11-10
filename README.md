@@ -13,7 +13,15 @@ Python sandbox w/ core capabilities
 python notes for [data structures](https://github.com/tansudasli/python-sandbox/wiki/Python-Data-Structures)
 
 # How To Start
-...
+
+create env
+```
+conda create -n core python=3
+
+conda activate core 
+
+conda install -n core ipykernel
+```
 
 1. core : python3 core data structures
 2. data : all about data manipulation w/ **pandas** 
