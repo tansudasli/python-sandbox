@@ -1,6 +1,21 @@
 # python-sandbox
 Python sandbox w/ core capabilities 
 
+### key concepts
+- data structures (list, tuple, range, dict, set)
+- higher order functions
+- tenary operator
+- unpacking
+- generators
+- comprehensions
+- iterators
+- decorators
+- file handling
+- string manipulation
+- exception handling
+- OOP (enough)
+
+### key libraries
 * pandas, numpy, scipy, 
 * matplotlib, 
 * BeautifulSoup4
@@ -10,7 +25,6 @@ Python sandbox w/ core capabilities
    * n-gram analysis w/ nlptk
    * sentiment analysis w/ nlptk and scikit-learn
    
-python notes for [data structures](https://github.com/tansudasli/python-sandbox/wiki/Python-Data-Structures)
 
 # How To Start
 
@@ -18,9 +32,10 @@ create env
 ```
 conda create -n core python=3
 
-conda activate core 
-
 conda install -n core ipykernel
+conda install -n core numpy
+
+conda activate core 
 ```
 
 1. core : python3 core data structures
