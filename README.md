@@ -28,15 +28,8 @@ Python sandbox w/ core capabilities
 
 # How To Start
 
-create env
-```
-conda create -n core python=3
+create env w `environment.sh`
 
-conda install -n core ipykernel
-conda install -n core numpy
-
-conda activate core 
-```
 
 1. core : python3 core data structures
 2. data : all about data manipulation w/ **pandas** 
@@ -50,10 +43,12 @@ conda activate core
 
 #### run python from bash-shell
 
- `echo ls -l | bash`
+```
+echo ls -l | bash
 
- `echo "Hello Holly." | python3 -c "import sys; [print(line) for line in sys.stdin]"`
+echo "Hello Holly." | python3 -c "import sys; [print(line) for line in sys.stdin]"
 
- `echo 3.30 | python3 -c "print('my grade is {}'.format(input()))"`
+echo 3.30 | python3 -c "print('my grade is {}'.format(input()))"
+```
 
  
