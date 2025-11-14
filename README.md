@@ -7,12 +7,12 @@ Python sandbox w/ core capabilities
 - unpacking (tuple), (*rest)
 - comprehensions = one-line = kinda-hof 
 - generators (...for..if..), (yield) -> next
-- iterators
 - decorators
-- operator (built-in lambda func.s)
-- file handling
+- itertools
+- operator (built-in lambdas, better serialization)
+- file
 - string manipulation
-- exception handling
+- exception
 - OOP (enough)
 
 ### key libraries
