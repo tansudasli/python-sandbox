@@ -3,11 +3,10 @@ Python sandbox w/ core capabilities
 
 ### key concepts
 - data structures (list, tuple, range, dict, set)
-- higher order functions
-- tenary operator
+- higher order functions (sort, map, filter, reduce)
 - unpacking
-- generators
-- comprehensions
+- comprehensions = one-line = kinda-map/fiter/reduce...
+- generators (...for..if..), (yield & next)
 - iterators
 - decorators
 - file handling
