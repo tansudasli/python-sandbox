@@ -19,7 +19,6 @@ Python sandbox w/ core capabilities
 ### key libraries
 * pandas, numpy, scipy, 
 * matplotlib, 
-* BeautifulSoup4
 * ml models
    * linear regression w/ scifi
    * natural language processing w/ nlptk
@@ -29,7 +28,7 @@ Python sandbox w/ core capabilities
 
 # How To Start
 
-create env w `environment.sh`
+create env w/ `environment.sh`
 
 
 1. core : python3 core data structures
@@ -39,17 +38,8 @@ create env w `environment.sh`
 3. statistics : about statistical ops. w/ **numpy**, **scipy**, 
 4. visualization : graphs w/ **matplotlib**, **seaborn**
 4. ml : machine learning models such as linear regression, nlp etc..
-5. scrapping : about html parsers
 6. code-review : about code interviews while hiring data scientists
 
-#### run python from bash-shell
 
-```
-echo ls -l | bash
-
-echo "Hello Holly." | python3 -c "import sys; [print(line) for line in sys.stdin]"
-
-echo 3.30 | python3 -c "print('my grade is {}'.format(input()))"
-```
 
  
