@@ -12,5 +12,5 @@ def print_without_vowels(s):
     print(result)
 
 if __name__ == "__main__":
-    s = input()
+    s = input()    #tansu --> tns
     print_without_vowels(s)  

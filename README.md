@@ -4,9 +4,9 @@ Python sandbox w/ core capabilities
 ### key concepts
 - data structures (list, tuple, range, dict, set)
 - higher order functions =hof
-   - built-in functions (min, max, sum...)
+   - built-in-functions (min, max, sum...)
    - map, reduce, filter, sort ...
-   - operator =built-in-lambdas (min, max, sum...)
+   - operator = built-in-functions-as-lambdas (min, max, sum...)
    - comprehensions = one-line = kinda-hof 
    - itertools (accumulate ...)
 - unpacking (tuple), (*rest, **rest)

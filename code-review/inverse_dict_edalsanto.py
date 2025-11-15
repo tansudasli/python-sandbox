@@ -17,6 +17,6 @@ def dict_invert(d):
     return inverse
 
 if __name__ == "__main__":
-    d =  {1:10, 4:40, 3:40}
-    dInverse = dict_invert(d) 
+    d =  {1:10, 4:40, 3:40} # --> {10: [1], 40: [3, 4]}
+    dInverse = dict_invert(d)  
     print(dInverse)
