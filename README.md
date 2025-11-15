@@ -5,7 +5,7 @@ Python sandbox w/ core capabilities
 - data structures (list, tuple, range, dict, set)
 - higher order functions =hof
    - built-in functions (min, max, sum...)
-   - map, reduce, filteri sort ...
+   - map, reduce, filter, sort ...
    - operator =built-in-lambdas (min, max, sum...)
    - comprehensions = one-line = kinda-hof 
    - itertools (accumulate ...)
