@@ -16,7 +16,8 @@ Python sandbox w/ core capabilities
 - exception
 
 ### key libraries
-* pandas, numpy, scipy, 
+* pandas, numpy, 
+* scipy = sparse, optimizers, significance tests, spatial ...
 * matplotlib, 
 * ml models
    * linear regression w/ scifi
