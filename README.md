@@ -17,7 +17,7 @@ Python sandbox w/ core capabilities
 
 ### key libraries
 * pandas, numpy, 
-* scipy = sparse, optimizers, significance tests, spatial ...
+* scipy = sparse, optimizers, significance tests, spatial, graph ...
 * matplotlib, 
 * ml models
    * linear regression w/ scifi
