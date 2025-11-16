@@ -16,7 +16,8 @@ Python sandbox w/ core capabilities
 - exception
 
 ### key libraries
-* pandas, numpy, 
+* pandas = data wrangler
+* numpy = matrix, random, +distributions
 * scipy = sparse, optimizers, significance tests, spatial, graph ...
 * matplotlib, 
 * ml models
