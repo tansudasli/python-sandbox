@@ -17,7 +17,7 @@ Python sandbox w/ core capabilities
 
 ### key libraries
 * pandas = data wrangler
-* numpy = matrix, random, +distributions
+* numpy = scalar/vector/tensor, random, +distributions
 * scipy = sparse, optimizers, significance tests, spatial, graph ...
 * matplotlib, 
 * ml models
