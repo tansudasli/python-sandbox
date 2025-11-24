@@ -2,21 +2,23 @@
 Python sandbox w/ core capabilities 
 
 ### key concepts
-- data structures (list, tuple, range, dict, set)
+- data structures (list [], tuple (), range, dict {k:v}, set {})
 - higher order functions (=hof)
-   - map, reduce, filter, sort ...
+   - map, filter, sorted ...
    - comprehensions = one-line = kinda-hof 
    - operator = built-in-functions-as-lambdas (min, max, sum...)
    - itertools (accumulate, groupby, combination ...)
+   - functools (reduce)
 - unpacking (tuple), (*rest, **rest)
 - generators (...for..if..), (yield) -> next
 - decorators
-- file
+- closures
+- callbacks
 - string manipulation
-- exception
+
 
 ### key libraries
-* pandas = data wrangler
+* pandas =  file, data wrangler
 * numpy = scalar/vector/tensor, random, +distributions
 * scipy = sparse, optimizers, significance tests, spatial, graph ...
 * matplotlib, 
