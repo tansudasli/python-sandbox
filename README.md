@@ -20,12 +20,12 @@ Python sandbox w/ core capabilities
 
 
 ### key libraries
-* pandas =  file, data wrangler
+* pandas =  file (read_csv, pd.Series(), to_numpy, tolist), data wrangler (filter, groupby, stack/unstack)
 * numpy = scalar/vector/tensor, random, +distributions
 * scipy = sparse, optimizers, significance tests, spatial, graph ...
-* matplotlib, 
+* matplotlib 
 * ml models
-   * linear regression w/ scifi
+   * linear regression w/ scipy
    * natural language processing w/ nlptk
    * n-gram analysis w/ nlptk
    * sentiment analysis w/ nlptk and scikit-learn
