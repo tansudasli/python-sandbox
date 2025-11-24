@@ -4,17 +4,19 @@ Python sandbox w/ core capabilities
 ### key concepts
 - data structures (list [], tuple (), range, dict {k:v}, set {})
 - higher order functions (=hof)
-   - map, filter, sorted ...
+   - map, filter, sort -inplace, sorted ...
    - comprehensions = one-line = kinda-hof 
    - operator = built-in-functions-as-lambdas (min, max, sum...)
-   - itertools (accumulate, groupby, combination ...)
+   - itertools (accumulate, groupby, combination, count, cycle, repeat, batched, chain ...)
    - functools (reduce)
-- unpacking (tuple), (*rest, **rest)
+   - min, max, len
+- iteration
+
 - generators (...for..if..), (yield) -> next
 - decorators
 - closures
 - callbacks
-- string manipulation
+
 
 
 ### key libraries
